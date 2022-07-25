@@ -1,4 +1,4 @@
-### Hello all puking Groots under this flaming sun 👋. I'm a:
+### Hello all puking Groots under this flaming hot sun 👋. I'm a:
 - developer without any idea
 - prospective aws know-it-all
 - never practicing kube expert
