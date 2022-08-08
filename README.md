@@ -1,11 +1,21 @@
-### Hello all puking Groots under this flaming hot sun 👋. I'm a:
-- developer without any idea
-- prospective aws know-it-all
-- never practicing kube expert
+```
+                          ./+o+-       kaidobit@germany
+                  yyyyy- -yyyyyy+      ----------------------------------
+               ://+//////-yyyyyyo      Uptime Since: 05/93
+           .++ .:/++++++/-.+sss/`      Programming Languages: Python, Java, PHP
+         .:++o:  /++++++++/:--:/-      Experience: Cloud Native, Container Orchestration, DevOps
+        o:+o+:++.`..```.-/oo+++++/     Hobbies: drones, filmes, games, homelab
+       .:+o:+o/.          `+sssoo+/     
+  .++/+:+oo+o:`             /sssooo.   
+ /+++//+:`oo+o               /::--:.   
+ \+/+o+++`o++o               ++////.   
+  .++.o+++oo+:`             /dddhhh.   
+       .+.o+oo:.          `oddhhhh+    
+        \+.++o+o``-````.:ohdhhhhh+     Other
+         `:o+++ `ohhhhhhhhyo++os:      ----------------------------------
+           .o:`.syhhhhhhh/.oo++o`      developer without any idea
+               /osyyyyyyo++ooo+++/     prospective aws know-it-all
+                   ````` +oo+++o\:     never practicing kube expert
+                          `oo++.       
 
-### and ...
-
-- 🔭 I’m currently working on: Drones crashing into your house.
-- 👯 I’m looking to collaborate on: Drones crashing into your house.
-- 📫 How to reach me: No need to talk, just create a PR.
-- ⚡ Fun fact: I crash drones.
+```
