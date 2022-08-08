@@ -2,7 +2,7 @@
                           ./+o+-       kaidobit@germany
                   yyyyy- -yyyyyy+      ----------------------------------
                ://+//////-yyyyyyo      Uptime Since: 05/93
-           .++ .:/++++++/-.+sss/`      Programming Languages: Python, Java, PHP
+           .++ .:/++++++/-.+sss/`      Programming Languages: Python, Java
          .:++o:  /++++++++/:--:/-      Experience: Cloud Native, Container Orchestration, DevOps
         o:+o+:++.`..```.-/oo+++++/     Hobbies: drones, filmes, games, homelab
        .:+o:+o/.          `+sssoo+/     
