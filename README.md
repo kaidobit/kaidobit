@@ -2,9 +2,9 @@
                           ./+o+-       kaidobit@germany
                   yyyyy- -yyyyyy+      ----------------------------------
                ://+//////-yyyyyyo      Uptime Since: 05/93
-           .++ .:/++++++/-.+sss/`      Programming Languages: Python, Java
-         .:++o:  /++++++++/:--:/-      Experience: Cloud Native, Container Orchestration, DevOps
-        o:+o+:++.`..```.-/oo+++++/     Hobbies: drones, filmes, games, homelab
+           .++ .:/++++++/-.+sss/`      Programming Languages: Python, Java, TypeScript
+         .:++o:  /++++++++/:--:/-      Experience: Cloud Native, Containers, DevOps
+        o:+o+:++.`..```.-/oo+++++/     Hobbies: drones, films, games, homelab
        .:+o:+o/.          `+sssoo+/     
   .++/+:+oo+o:`             /sssooo.   
  /+++//+:`oo+o               /::--:.   
@@ -19,3 +19,8 @@
                           `oo++.       
 
 ``` 
+
+### Credly Badges (updated nightly)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
