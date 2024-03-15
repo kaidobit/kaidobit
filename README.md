@@ -23,9 +23,10 @@
 ### Credly Badges (updated nightly)
 
 <!--START_SECTION:badges-->
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/a82712f1-dc28-430e-8207-30ba6cc0c85a "AWS Certified SysOps Administrator – Associate")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/b839bdb6-c711-4a62-a063-2d1daeae0bbc "AWS Certified Developer – Associate")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/a1546e61-9525-464e-b20f-8680837d34c7 "AWS Certified Cloud Practitioner")
+[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/cd868d04-8ca8-4364-bcb5-0e4fec82b578 "AWS Certified DevOps Engineer – Professional")
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/835b1dcc-7266-4d51-9d11-f53cd186e9af "AWS Certified SysOps Administrator – Associate")
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/c22966c9-b601-4239-9c3c-84fa740f9f01 "AWS Certified Developer – Associate")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/d2b86959-74d8-4f0e-bd96-1c506932c56f "AWS Certified Cloud Practitioner")
 [![MTA: Software Development Fundamentals - Certified 2020](https://images.credly.com/size/110x110/images/4338e594-1e04-4fc4-b71e-3a6d0293e326/MTA-Software_Development_Fundamentals.png)](http://www.credly.com/badges/3752156a-1537-4974-a3f6-4d1a49046bb5 "MTA: Software Development Fundamentals - Certified 2020")
 [![MTA: Database Fundamentals - Certified 2020](https://images.credly.com/size/110x110/images/89076aca-a42e-47e1-8172-5b60b31812d9/MTA-Database_Fundamentals.png)](http://www.credly.com/badges/c0996ad4-8e15-4547-87be-065695f0c2e3 "MTA: Database Fundamentals - Certified 2020")
 <!--END_SECTION:badges-->
